@@ -2,7 +2,7 @@
 
 Esse projeto foi desenvolvido durante as aulas do Stage 03 no Explorer.!
 
-[Alt text](preview.png)
+<img src="./assets/preview.png">
 
 🚀 Tecnologias
 
